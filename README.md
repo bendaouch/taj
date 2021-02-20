@@ -1,2 +1,1 @@
-# taj
-Uiit
+story-joe-edit-reviewed.txt
